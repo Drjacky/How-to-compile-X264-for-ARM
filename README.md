@@ -1,4 +1,4 @@
-# How-to-compile-X264-for-ARM
+# How to compile X264 for ARM
 How to compile X264 for ARM
 
 1-
